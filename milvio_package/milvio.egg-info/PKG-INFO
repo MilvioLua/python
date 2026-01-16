@@ -1,7 +1,7 @@
 Metadata-Version: 2.4
 Name: milvio
 Version: 0.1.0
-Summary: Async and Sync Redis Service Wrapper
+Summary: Milvio Package and tools
 Home-page: https://github.com/MilvioLua/python
 Author: Milvio Lua
 Author-email: Milvio Lua <developer@godigitalda.com>

@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "milvio"
 version = "0.1.0"
-description = "Async and Sync Redis Service Wrapper"
+description = "Milvio Package and tools"
 readme = "README.md"
 authors = [
   { name="Milvio Lua", email="developer@godigitalda.com" },
